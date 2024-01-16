@@ -1,6 +1,4 @@
-To be ran be default as
+To be run by default using the following command:
 
+```bash
 ./run ExN
-
-with ExN.myc in Examples
-creating ExN_pcode.c
