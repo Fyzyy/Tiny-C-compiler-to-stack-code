@@ -1,0 +1,22 @@
+float x;
+float y;
+int z;
+
+int main() {
+if (x> 0.0) {
+    if (y> 0.0) {
+        if(z != 1) {
+            z=1;
+        }
+        else {
+            z=0;
+        }
+    }
+    else {z=2;}
+}
+else {
+    if (y> 0.0) {z=3;}
+    else {z=4;}
+}
+return z;
+}

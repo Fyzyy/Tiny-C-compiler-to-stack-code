@@ -1,0 +1,8 @@
+int plus(int x, float y) {
+
+    return (x+y);
+}
+
+int main() {
+    return plus(5,6);
+}

@@ -1,0 +1,11 @@
+float x;
+int y;
+
+int main() {
+x = 3.0;
+y = 2;
+if (x>y) y=1;
+else y=0;
+return y;
+
+}

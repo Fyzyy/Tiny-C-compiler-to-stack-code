@@ -1,0 +1,9 @@
+int x,y;
+float z,t;
+int main() {
+    x = 3;
+    y = -1;
+    z = 1.0;
+    t = 1.2;
+    return (x + y * z) / t;
+}

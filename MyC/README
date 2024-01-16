@@ -1,0 +1,6 @@
+To be ran be default as
+
+./run ExN
+
+with ExN.myc in Examples
+creating ExN_pcode.c
